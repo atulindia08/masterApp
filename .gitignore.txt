@@ -1,2 +1,2 @@
-frontEnd/app/node_modules/
 backEnd/node_modules/
+frontEnd/app/node_modules/
